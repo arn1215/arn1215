@@ -1,8 +1,11 @@
+
+<div align="center">
+
 ### Hi there 👋, my names Ali.
 #### I am a Full Stack Software Engineer
 ![I am a Full Stack Software Engineer](https://lh3.googleusercontent.com/EXOHMMD-wXatpjRbYSMqr127gDCSmqxtQ9J5PoV38vJOu_MMKnC8N2EJXlIgq_z-iyDrqntQ25vfg6cNfhWQa7HOrKiHaig_ZxbFf4A=w600)
 
-I'm a developer based in Chicago. I really enjoy approaching programming with a creative mindset. 
+I'm a developer based in Chicago. I like to approach programming with a creative mindset. 
 
 In my spare time I like to make music, play video games, and listen to people talk about philosophy.
 
@@ -12,6 +15,7 @@ I love building something from nothing.
 Feel free to reach out, I am always open to collaboration!
 
 - 🔭 I’m currently working on https://papyrus-ali-naqvi.herokuapp.com/ 
+  
 - ⚡ Fun fact: I made an appearance on HBO's "The Night Of" for a whopping 2 seconds. 
 
 
@@ -22,4 +26,4 @@ Feel free to reach out, I am always open to collaboration!
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arn1215&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arn1215)  
-
+</div>
