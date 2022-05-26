@@ -14,9 +14,9 @@ I love building something from nothing.
 
 Feel free to reach out, I am always open to collaboration!
 
-- 🔭 I’m currently working on https://papyrus-ali-naqvi.herokuapp.com/ 
+ 🔭 I’m currently working on https://papyrus-ali-naqvi.herokuapp.com/ 
   
-- ⚡ Fun fact: I made an appearance on HBO's "The Night Of" for a whopping 2 seconds. 
+-⚡ Fun fact: I made an appearance on HBO's "The Night Of" for a whopping 2 seconds. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arn1215)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-naqvi-251910226/)  
