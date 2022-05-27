@@ -23,7 +23,4 @@ Feel free to reach out, I am always open to collaboration!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arn1215)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arn1215&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arn1215)  
 </div>
