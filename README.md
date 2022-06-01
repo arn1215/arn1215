@@ -1,5 +1,4 @@
 
-<div align="center">
 
 ### Hi there 👋, my names Ali.
 #### I am a Full Stack Software Engineer
@@ -21,4 +20,4 @@ Feel free to reach out, I am always open to collaboration!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arn1215)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-naqvi-251910226/)  
 
 
-</div>
+
