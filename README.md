@@ -6,11 +6,6 @@
 
 I'm a developer based in Chicago. I like to approach programming with a creative mindset. 
 
-In my spare time I like to make music, play video games, and listen to people talk about philosophy.
-
-I love building something from nothing.
-
-Feel free to reach out, I am always open to collaboration!
 
 🔭 I’m currently working on https://papyrus-ali-naqvi.herokuapp.com/ 
 
