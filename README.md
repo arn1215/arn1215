@@ -1,7 +1,5 @@
 
-
-### Hi there 👋, my names Ali.
-#### I am a Full Stack Software Engineer
+Full Stack Software Engineer
 ![I am a Full Stack Software Engineer](https://lh3.googleusercontent.com/EXOHMMD-wXatpjRbYSMqr127gDCSmqxtQ9J5PoV38vJOu_MMKnC8N2EJXlIgq_z-iyDrqntQ25vfg6cNfhWQa7HOrKiHaig_ZxbFf4A=w600)
 
 I'm a developer based in Chicago. I like to approach programming with a creative mindset. 
